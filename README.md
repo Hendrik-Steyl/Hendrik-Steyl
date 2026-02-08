@@ -1,4 +1,20 @@
-## Hi there 👋
+ Hi, I’m Hendrik Louis Steyl
+
+o      I am a Software Engineering Student at Belgium Campus iTversity 
+
+o      Passionate about AI, Security, and Data science
+
+o       Seeking internship/graduate opportunities in software development 
+
+🚀 Skills
+
+o        Programming:   C++, SQL
+
+o        Tools: Git, Docker, Power BI, Arduino
+
+o         Cloud: AWS, Azure, Supabase 
+
+
 
 <!--
 **Hendrik-Steyl/Hendrik-Steyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
